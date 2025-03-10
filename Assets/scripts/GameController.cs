@@ -62,7 +62,7 @@ public class GameController : MonoBehaviour
         diamonds = 0;
         score = 0;
         gameover = false;
-
+        TowerHealth = 100;
         // Initialize object pool
         for (int i = 0; i < bulletPoolSize; i++)
         {

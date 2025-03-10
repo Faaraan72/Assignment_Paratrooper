@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: a294cf4550be5274b82b01f442148f86
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Turrets_Asset_Pack_for_Merge_Shooter-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 123
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5a3e913da0a4440999f1e42659345f
+      internalID: -1043385002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turrets_Asset_Pack_for_Merge_Shooter-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 112
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc024690adf4d304d95963a5015f85a2
+      internalID: 1389019815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turrets_Asset_Pack_for_Merge_Shooter-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 123
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acda610dfe98d9f4eaaff1d1ea849f15
+      internalID: -350741611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turrets_Asset_Pack_for_Merge_Shooter-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 23
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c25dfbaf81bbb74b9ab46abe6d449e8
+      internalID: 536992675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turrets_Asset_Pack_for_Merge_Shooter-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 84
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2000ea02aa15f42a1c3a85e2cef256
+      internalID: 506643706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turrets_Asset_Pack_for_Merge_Shooter-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 23
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919d65d75ea2818498b7f9d5034704e3
+      internalID: 1928344741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turrets_Asset_Pack_for_Merge_Shooter-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 24
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f236eae27f3f549a54be946250a74b
+      internalID: 214696089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turrets_Asset_Pack_for_Merge_Shooter-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 23
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5633e7311b9902a42ba6c48229604e66
+      internalID: 82223464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Turrets_Asset_Pack_for_Merge_Shooter-removebg-preview_0: 1108194028
+      Turrets_Asset_Pack_for_Merge_Shooter-removebg-preview_1: 588982406
+      Turrets_Asset_Pack_for_Merge_Shooter-removebg-preview_10: -1253213577
+      Turrets_Asset_Pack_for_Merge_Shooter-removebg-preview_11: 418418062
+      Turrets_Asset_Pack_for_Merge_Shooter-removebg-preview_12: -468989947
+      Turrets_Asset_Pack_for_Merge_Shooter-removebg-preview_13: 523372329
+      Turrets_Asset_Pack_for_Merge_Shooter-removebg-preview_14: -568812592
+      Turrets_Asset_Pack_for_Merge_Shooter-removebg-preview_15: -770042240
+      Turrets_Asset_Pack_for_Merge_Shooter-removebg-preview_16: -1043385002
+      Turrets_Asset_Pack_for_Merge_Shooter-removebg-preview_17: -1296506722
+      Turrets_Asset_Pack_for_Merge_Shooter-removebg-preview_18: -309975099
+      Turrets_Asset_Pack_for_Merge_Shooter-removebg-preview_19: 1389019815
+      Turrets_Asset_Pack_for_Merge_Shooter-removebg-preview_2: -1994626070
+      Turrets_Asset_Pack_for_Merge_Shooter-removebg-preview_20: -350741611
+      Turrets_Asset_Pack_for_Merge_Shooter-removebg-preview_21: -1065567789
+      Turrets_Asset_Pack_for_Merge_Shooter-removebg-preview_22: -913558787
+      Turrets_Asset_Pack_for_Merge_Shooter-removebg-preview_23: -369100436
+      Turrets_Asset_Pack_for_Merge_Shooter-removebg-preview_24: 536992675
+      Turrets_Asset_Pack_for_Merge_Shooter-removebg-preview_25: 506643706
+      Turrets_Asset_Pack_for_Merge_Shooter-removebg-preview_26: 1928344741
+      Turrets_Asset_Pack_for_Merge_Shooter-removebg-preview_27: 214696089
+      Turrets_Asset_Pack_for_Merge_Shooter-removebg-preview_28: 82223464
+      Turrets_Asset_Pack_for_Merge_Shooter-removebg-preview_29: 1454087234
+      Turrets_Asset_Pack_for_Merge_Shooter-removebg-preview_3: -1538309
+      Turrets_Asset_Pack_for_Merge_Shooter-removebg-preview_4: -581289593
+      Turrets_Asset_Pack_for_Merge_Shooter-removebg-preview_5: -517932799
+      Turrets_Asset_Pack_for_Merge_Shooter-removebg-preview_6: 510705673
+      Turrets_Asset_Pack_for_Merge_Shooter-removebg-preview_7: 705206363
+      Turrets_Asset_Pack_for_Merge_Shooter-removebg-preview_8: -1504346998
+      Turrets_Asset_Pack_for_Merge_Shooter-removebg-preview_9: -1661333969
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
